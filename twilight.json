@@ -1,0 +1,19 @@
+{
+  "name": {
+    "ar": "درر الكنوز العربية",
+    "en": "Durar Al Kunuz"
+  },
+  "repository": "https://github.com/duraralkunuz/duraralkunuz-theme",
+  "author_email": "support@duraralkunuz.com",
+  "features": [
+    "component-featured-products",
+    "component-fixed-banner",
+    "component-photos-slider",
+    "component-products-slider",
+    "component-store-features",
+    "component-testimonials",
+    "filters"
+  ],
+  "settings": [],
+  "components": []
+}

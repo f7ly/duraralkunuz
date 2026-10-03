@@ -1,0 +1,28 @@
+{
+  "name": "duraralkunuz-salla-theme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Arabic RTL Twilight theme for Durar Al Kunuz",
+  "scripts": {
+    "production": "webpack --mode production",
+    "development": "webpack --mode development",
+    "watch": "webpack --mode development --watch"
+  },
+  "devDependencies": {
+    "@salla.sa/twilight": "^2.14.551",
+    "autoprefixer": "^10.5.2",
+    "css-loader": "^7.1.4",
+    "css-minimizer-webpack-plugin": "^8.0.0",
+    "glob": "^13.0.6",
+    "mini-css-extract-plugin": "^2.10.2",
+    "postcss": "^8.5.16",
+    "postcss-loader": "^8.2.1",
+    "sass": "^1.101.0",
+    "sass-loader": "^17.0.0",
+    "webpack": "^5.108.4",
+    "webpack-cli": "^7.2.1"
+  },
+  "engines": {
+    "node": "^22.18.0 || >=24.11.0"
+  }
+}
